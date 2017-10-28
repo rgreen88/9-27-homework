@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">My Calculator</string>
+    <string name="app_name">EMI_Calculator</string>
+    <string name="result">Result</string>
+    <string name="calculate">Calculate</string>
+    <string name="amount_of_years">Amount of years:</string>
+    <string name="rate_of_interest">Rate of interest:</string>
+    <string name="loan_amount">Loan Amount:</string>
+    <string name="calculate_emi">Calculate EMI</string>
 </resources>
